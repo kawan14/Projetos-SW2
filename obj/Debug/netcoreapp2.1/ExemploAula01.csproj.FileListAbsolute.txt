@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\obj\Debug\netcoreapp2.1\ExemploAula01.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\obj\Debug\netcoreapp2.1\ExemploAula01.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\obj\Debug\netcoreapp2.1\ExemploAula01.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\obj\Debug\netcoreapp2.1\ExemploAula01.AssemblyInfo.cs
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\bin\Debug\netcoreapp2.1\ExemploAula01.deps.json
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\bin\Debug\netcoreapp2.1\ExemploAula01.runtimeconfig.json
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\bin\Debug\netcoreapp2.1\ExemploAula01.runtimeconfig.dev.json
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\bin\Debug\netcoreapp2.1\ExemploAula01.dll
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\bin\Debug\netcoreapp2.1\ExemploAula01.pdb
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\obj\Debug\netcoreapp2.1\ExemploAula01.dll
+C:\Users\aluno\source\repos\ExemploAula01\ExemploAula01\obj\Debug\netcoreapp2.1\ExemploAula01.pdb
